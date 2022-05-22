@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @codeBennyLaw
-- 👀 I’m interested in 
-- 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on NOIP
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning cpp
+- 💞️ I’m looking to collaborate on Huizhou High School
 - 📫 My contact information: 1018273986@qq.com.
 
 <!---
