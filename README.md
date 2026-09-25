@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @codeBennyLaw
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning cpp
-- 💞️ I’m looking to collaborate on Huizhou High School
+- 🌱 I’m currently learning computer knowledge
+- 💞️ I’m looking for job opportunities in software development companies
 - 📫 My contact information: alilexiwalker@wyu.edu.cn.
 
 <!---
