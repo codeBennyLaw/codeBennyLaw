@@ -313,12 +313,12 @@
 <text x="50" y="454" font-family="'Courier New', monospace" font-size="13" fill="#FF69B4" opacity="0.6">C#</text>
 <rect x="155" y="444" width="0" height="10" rx="5" fill="url(#bar1)" opacity="0.8"><animate attributeName="width" from="0" to="486" dur="1.2s" fill="freeze" begin="0.8s"/></rect>
 <text x="651" y="454" font-family="'Courier New', monospace" font-size="13" fill="#FF69B4" opacity="0.4">81%</text><text x="50" y="484" font-family="'Courier New', monospace" font-size="13" fill="#D4A5FF" opacity="0.6">Java</text>
-<rect x="155" y="474" width="0" height="10" rx="5" fill="url(#bar2)" opacity="0.8"><animate attributeName="width" from="0" to="60" dur="1.2s" fill="freeze" begin="1.0s"/></rect>
-<text x="225" y="484" font-family="'Courier New', monospace" font-size="13" fill="#D4A5FF" opacity="0.4">10%</text><text x="50" y="514" font-family="'Courier New', monospace" font-size="13" fill="#00D4FF" opacity="0.6">JavaScript</text>
+<rect x="155" y="474" width="0" height="10" rx="5" fill="url(#bar2)" opacity="0.8"><animate attributeName="width" from="0" to="54" dur="1.2s" fill="freeze" begin="1.0s"/></rect>
+<text x="219" y="484" font-family="'Courier New', monospace" font-size="13" fill="#D4A5FF" opacity="0.4">9%</text><text x="50" y="514" font-family="'Courier New', monospace" font-size="13" fill="#00D4FF" opacity="0.6">JavaScript</text>
 <rect x="155" y="504" width="0" height="10" rx="5" fill="url(#bar3)" opacity="0.8"><animate attributeName="width" from="0" to="30" dur="1.2s" fill="freeze" begin="1.2s"/></rect>
 <text x="195" y="514" font-family="'Courier New', monospace" font-size="13" fill="#00D4FF" opacity="0.4">5%</text><text x="50" y="544" font-family="'Courier New', monospace" font-size="13" fill="#9B59B6" opacity="0.6">CSS</text>
-<rect x="155" y="534" width="0" height="10" rx="5" fill="url(#bar3)" opacity="0.8"><animate attributeName="width" from="0" to="24" dur="1.2s" fill="freeze" begin="1.4s"/></rect>
-<text x="189" y="544" font-family="'Courier New', monospace" font-size="13" fill="#9B59B6" opacity="0.4">4%</text>
+<rect x="155" y="534" width="0" height="10" rx="5" fill="url(#bar3)" opacity="0.8"><animate attributeName="width" from="0" to="30" dur="1.2s" fill="freeze" begin="1.4s"/></rect>
+<text x="195" y="544" font-family="'Courier New', monospace" font-size="13" fill="#9B59B6" opacity="0.4">5%</text>
 <g transform="translate(870, 479)">
 <circle cx="0" cy="0" r="36" fill="none" stroke="#FF69B4" stroke-width="2" opacity="0.1" stroke-dasharray="226.2" stroke-dashoffset="0"/>
 <circle cx="0" cy="0" r="36" fill="none" stroke="#FF69B4" stroke-width="2" opacity="0.7" stroke-dasharray="226.2" stroke-dashoffset="226.2" stroke-linecap="round" transform="rotate(-90)"><animate attributeName="stroke-dashoffset" from="226.2" to="154.6" dur="1.5s" fill="freeze" begin="0.5s"/></circle>
