@@ -263,21 +263,21 @@
 <circle cx="4" cy="40" r="3" fill="#D4A5FF" opacity="0.6"/><text x="12" y="44" font-family="sans-serif" font-size="9" fill="#D4A5FF" opacity="0.5">CSS</text>
 </g><rect x="464" y="104" width="200" height="52" rx="6" fill="white" opacity="0.02" stroke="#FF69B4" stroke-width="0.3" stroke-opacity="0.08"/>
 <g transform="translate(468,106)" clip-path="url(#cardTextClip)">
+<text x="4" y="16" font-family="'Courier New', monospace" font-size="12" font-weight="bold" fill="#FF69B4" opacity="0.85">AgentSkills <tspan fill="#FF69B4" font-size="9" opacity="0.6">Private</tspan></text>
+<text x="186" y="16" text-anchor="end" font-family="sans-serif" font-size="9" fill="#8892b0" opacity="0.35">2026-10-19</text>
+<text x="4" y="32" font-family="sans-serif" font-size="10" fill="#8892b0" opacity="0.5">My Agent's Skills</text>
+<circle cx="4" cy="40" r="3" fill="#FF69B4" opacity="0.6"/><text x="12" y="44" font-family="sans-serif" font-size="9" fill="#FF69B4" opacity="0.5">Python</text>
+</g><rect x="680" y="104" width="200" height="52" rx="6" fill="white" opacity="0.02" stroke="#FF69B4" stroke-width="0.3" stroke-opacity="0.08"/>
+<g transform="translate(684,106)" clip-path="url(#cardTextClip)">
 <text x="4" y="16" font-family="'Courier New', monospace" font-size="12" font-weight="bold" fill="#FF69B4" opacity="0.85">WyuTimetable <tspan fill="#FF69B4" font-size="9" opacity="0.6">Private</tspan></text>
 <text x="186" y="16" text-anchor="end" font-family="sans-serif" font-size="9" fill="#8892b0" opacity="0.35">2026-10-18</text>
 <text x="4" y="32" font-family="sans-serif" font-size="10" fill="#8892b0" opacity="0.5">No description</text>
-<circle cx="4" cy="40" r="3" fill="#FF69B4" opacity="0.6"/><text x="12" y="44" font-family="sans-serif" font-size="9" fill="#FF69B4" opacity="0.5">Kotlin</text>
-</g><rect x="680" y="104" width="200" height="52" rx="6" fill="white" opacity="0.02" stroke="#FF69B4" stroke-width="0.3" stroke-opacity="0.08"/>
-<g transform="translate(684,106)" clip-path="url(#cardTextClip)">
+<circle cx="4" cy="40" r="3" fill="#D4A5FF" opacity="0.6"/><text x="12" y="44" font-family="sans-serif" font-size="9" fill="#D4A5FF" opacity="0.5">Kotlin</text>
+</g><rect x="32" y="162" width="200" height="52" rx="6" fill="white" opacity="0.02" stroke="#FF69B4" stroke-width="0.3" stroke-opacity="0.08"/>
+<g transform="translate(36,164)" clip-path="url(#cardTextClip)">
 <text x="4" y="16" font-family="'Courier New', monospace" font-size="12" font-weight="bold" fill="#FF69B4" opacity="0.85">2026WYUACM <tspan fill="#FF69B4" font-size="9" opacity="0.6">Private</tspan></text>
 <text x="186" y="16" text-anchor="end" font-family="sans-serif" font-size="9" fill="#8892b0" opacity="0.35">2026-10-13</text>
 <text x="4" y="32" font-family="sans-serif" font-size="10" fill="#8892b0" opacity="0.5">No description</text>
-<circle cx="4" cy="40" r="3" fill="#D4A5FF" opacity="0.6"/><text x="12" y="44" font-family="sans-serif" font-size="9" fill="#D4A5FF" opacity="0.5">Python</text>
-</g><rect x="32" y="162" width="200" height="52" rx="6" fill="white" opacity="0.02" stroke="#FF69B4" stroke-width="0.3" stroke-opacity="0.08"/>
-<g transform="translate(36,164)" clip-path="url(#cardTextClip)">
-<text x="4" y="16" font-family="'Courier New', monospace" font-size="12" font-weight="bold" fill="#FF69B4" opacity="0.85">AgentSkills <tspan fill="#FF69B4" font-size="9" opacity="0.6">Private</tspan></text>
-<text x="186" y="16" text-anchor="end" font-family="sans-serif" font-size="9" fill="#8892b0" opacity="0.35">2026-10-10</text>
-<text x="4" y="32" font-family="sans-serif" font-size="10" fill="#8892b0" opacity="0.5">My Agent's Skills</text>
 <circle cx="4" cy="40" r="3" fill="#00D4FF" opacity="0.6"/><text x="12" y="44" font-family="sans-serif" font-size="9" fill="#00D4FF" opacity="0.5">Python</text>
 </g><rect x="248" y="162" width="200" height="52" rx="6" fill="white" opacity="0.02" stroke="#FF69B4" stroke-width="0.3" stroke-opacity="0.08"/>
 <g transform="translate(252,164)" clip-path="url(#cardTextClip)">
@@ -297,7 +297,7 @@
 <g>
 <rect x="40" y="314" width="270" height="85" rx="8" fill="white" opacity="0.03" stroke="#FF69B4" stroke-width="0.5" stroke-opacity="0.15"/>
 <text x="60" y="341" font-family="'Courier New', monospace" font-size="11" fill="#FF69B4" opacity="0.5" letter-spacing="3">CONTRIBUTIONS</text>
-<text x="60" y="377" font-family="'Courier New', monospace" font-size="42" font-weight="bold" fill="#FF69B4" filter="url(#p_g1)">311<animate attributeName="opacity" values="0.8;1;0.8" dur="3s" repeatCount="indefinite"/></text>
+<text x="60" y="377" font-family="'Courier New', monospace" font-size="42" font-weight="bold" fill="#FF69B4" filter="url(#p_g1)">314<animate attributeName="opacity" values="0.8;1;0.8" dur="3s" repeatCount="indefinite"/></text>
 <rect x="60" y="387" width="0" height="3" rx="1.5" fill="url(#p_bar1)"><animate attributeName="width" from="0" to="165" dur="1.5s" fill="freeze" begin="0.3s"/></rect>
 <rect x="60" y="387" width="165" height="3" rx="1.5" fill="url(#p_bar1)" opacity="0.1"/>
 </g>
@@ -327,8 +327,8 @@
 <text x="219" y="544" font-family="'Courier New', monospace" font-size="13" fill="#9B59B6" opacity="0.4">9%</text>
 <g transform="translate(870, 479)">
 <circle cx="0" cy="0" r="36" fill="none" stroke="#FF69B4" stroke-width="2" opacity="0.1" stroke-dasharray="226.2" stroke-dashoffset="0"/>
-<circle cx="0" cy="0" r="36" fill="none" stroke="#FF69B4" stroke-width="2" opacity="0.7" stroke-dasharray="226.2" stroke-dashoffset="226.2" stroke-linecap="round" transform="rotate(-90)"><animate attributeName="stroke-dashoffset" from="226.2" to="141.4" dur="1.5s" fill="freeze" begin="0.5s"/></circle>
-<text x="0" y="6" text-anchor="middle" font-family="'Courier New', monospace" font-size="14" font-weight="bold" fill="#FF69B4">25%<animate attributeName="opacity" values="0.7;1;0.7" dur="3s" repeatCount="indefinite"/></text>
+<circle cx="0" cy="0" r="36" fill="none" stroke="#FF69B4" stroke-width="2" opacity="0.7" stroke-dasharray="226.2" stroke-dashoffset="226.2" stroke-linecap="round" transform="rotate(-90)"><animate attributeName="stroke-dashoffset" from="226.2" to="139.5" dur="1.5s" fill="freeze" begin="0.5s"/></circle>
+<text x="0" y="6" text-anchor="middle" font-family="'Courier New', monospace" font-size="14" font-weight="bold" fill="#FF69B4">26%<animate attributeName="opacity" values="0.7;1;0.7" dur="3s" repeatCount="indefinite"/></text>
 <text x="0" y="56" text-anchor="middle" font-family="'Courier New', monospace" font-size="9" fill="#FF69B4" opacity="0.4">STREAK</text>
 </g>
 <line x1="30" y1="579" x2="930" y2="579" stroke="#FF69B4" stroke-width="0.5" opacity="0.15"/>
