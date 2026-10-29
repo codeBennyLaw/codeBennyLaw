@@ -330,9 +330,9 @@
 <g>
 <rect x="630" y="372" width="270" height="85" rx="8" fill="white" opacity="0.03" stroke="#00D4FF" stroke-width="0.5" stroke-opacity="0.15"/>
 <text x="650" y="399" font-family="'Courier New', monospace" font-size="11" fill="#00D4FF" opacity="0.5" letter-spacing="3">FOLLOWERS</text>
-<text x="650" y="435" font-family="'Courier New', monospace" font-size="42" font-weight="bold" fill="#00D4FF" filter="url(#p_g1)">7<animate attributeName="opacity" values="0.8;1;0.8" dur="4s" repeatCount="indefinite"/></text>
-<rect x="650" y="445" width="0" height="3" rx="1.5" fill="url(#p_bar3)"><animate attributeName="width" from="0" to="140" dur="1.5s" fill="freeze" begin="0.7s"/></rect>
-<rect x="650" y="445" width="140" height="3" rx="1.5" fill="url(#p_bar3)" opacity="0.1"/>
+<text x="650" y="435" font-family="'Courier New', monospace" font-size="42" font-weight="bold" fill="#00D4FF" filter="url(#p_g1)">8<animate attributeName="opacity" values="0.8;1;0.8" dur="4s" repeatCount="indefinite"/></text>
+<rect x="650" y="445" width="0" height="3" rx="1.5" fill="url(#p_bar3)"><animate attributeName="width" from="0" to="160" dur="1.5s" fill="freeze" begin="0.7s"/></rect>
+<rect x="650" y="445" width="160" height="3" rx="1.5" fill="url(#p_bar3)" opacity="0.1"/>
 </g>
 <line x1="50" y1="477" x2="910" y2="477" stroke="#FF69B4" stroke-width="0.5" opacity="0.1"/>
 <text x="50" y="512" font-family="'Courier New', monospace" font-size="13" fill="#FF69B4" opacity="0.6">Kotlin</text>
